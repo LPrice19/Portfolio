@@ -39,7 +39,7 @@ export const PROJECTS = [
     description:
       "SaaS platform offering traders psychological support, via an NLP model, APIs and Chat Bots to replicate the effect of a performance trading coach.",
     technologies: ["Project Management", "Academic Research", "JavaScript", "CSS", "Figma"],
-    link: "https://drive.google.com/drive/folders/1brrE6e4H64PVkV1VTDLYlBKpxjP4XndN?usp=drive_link"
+    link: "https://docs.google.com/document/d/1BnH8jQEtF6m0BexWP7-uSU754U8dLP2B/edit?usp=drive_link&ouid=116866617293782372053&rtpof=true&sd=true"
   },
 
   {
@@ -66,7 +66,7 @@ export const PROJECTS = [
     description:
       "Cloud Based web application using REST API, allowing travel enthusiasts to find like-minded individuals to plan trips with.",
     technologies: ["HTML", "CSS", "Express.js", "JSON"],
-    link: "https://drive.google.com/drive/folders/1fwEZtFSGBR4pWkVvHI0aViN8TR8kgDyK?usp=drive_link"
+    link: "https://docs.google.com/document/d/1obJZ9MfJJ5RLK1aMlD1ryIiQZAkDjsgQ/edit?usp=drive_link&ouid=116866617293782372053&rtpof=true&sd=true"
   },
 ];
 
